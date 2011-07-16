@@ -15,6 +15,8 @@
 - (void)applicationDidFinishLaunching:(NSNotification *)aNotification
 {
     NSLog(@"This is a change!");
+    NSLog(@"Rawr");
+    NSLog(@"Late Change");
 }
 
 @end
