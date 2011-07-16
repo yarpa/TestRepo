@@ -14,7 +14,7 @@
 
 - (void)applicationDidFinishLaunching:(NSNotification *)aNotification
 {
-    NSLog(@"awake from nib");
+    NSLog(@"This is a change!");
 }
 
 @end
